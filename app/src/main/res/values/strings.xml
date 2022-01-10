@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SubmissionJetpack1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="release_date">Release Date : %s</string>
+    <string name="detail_film">Film Detail</string>
+    <string name="text_share">Ayo tonton %s. Informasi lebih lanjut ada pada website https://www.themoviedb.org</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="detail_actor">Caster Detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="list_favourite">List Favourite</string>
+</resources>
